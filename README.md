@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
     <a
     href="https://getbootstrap.com"
     target="_blank" rel="noreferrer"
@@ -279,26 +279,21 @@
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
-        width="7000"
+        width="8000"
     />
 </p>
-<p
-  display="flex"
-  align="center"
-  justify-content="center"
-  flex-wrap="nowrap"
-  height="100%"
-   >
+<p>
     <img
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    flex-grow="1"
-    max-width="50%"
-    />
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
-        alt="xx"
-        flex-grow="1"
-        max-width="50%"
+    width="600"
     />
 </p>
+<!-- <p>
+    <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
+        alt="xx"
+    />
+</p> -->
