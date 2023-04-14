@@ -16,7 +16,7 @@
 >
     <a 
         href="https://linkedin.com/in/eduardo-malhao"
-        target="https://linkedin.com/in/eduardo-malhao"
+        target="_blank"
     >
             <img 
                 align="center"
@@ -26,7 +26,7 @@
     </a>
     <a 
     href="https://wa.me/5512981733073"
-    target="https://wa.me/5512981733073"
+    target="_blank"
     >
         <img
         align="center"
@@ -35,8 +35,8 @@
         />
     </a>
     <a 
-    href="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    target="eduardo.malhao@outlook.com"
+    href="eduardo.malhao@outlook.com"
+    target="_blank"
     >
         <img
         align="center"
