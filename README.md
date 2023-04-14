@@ -287,7 +287,7 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    width="450"
+    width="250"
     />
 </p>
 <p>
@@ -295,6 +295,6 @@
         align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
         alt="xx"
-        width="520"
+        width="320"
     />
 </p>
