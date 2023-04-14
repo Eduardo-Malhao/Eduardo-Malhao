@@ -296,7 +296,7 @@
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
         alt="xx"
-        width="75%"
+        width="85%"
     />
 </p>
 
