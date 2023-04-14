@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Eduardo-Malhao</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xx&label=Profile%20views&color=0e75b6&style=flat" alt="xx" onclick()/> </p>
+<p 
+   align="left"
+>
+    <img
+        src="https://komarev.com/ghpvc/?username=Eduardo-Malhao&label=Profile%20views&color=0e75b6&style=flat&theme=dracula"
+        alt="visitor counter"
+    />
+</p>
 
 <h3 align="left"> 📲 Connect with me:</h3>
-<p align="left">
+<p 
+    align="left"
+>
     <a 
         href="https://linkedin.com/in/eduardo-malhao"
         target="https://linkedin.com/in/eduardo-malhao"
@@ -38,7 +47,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
     <a
     href="https://getbootstrap.com"
     target="_blank" rel="noreferrer"
@@ -264,28 +273,28 @@
         />
     </a>
 </p>
-
-<p>
-    <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=xx&show_icons=true&locale=en&layout=compact"
-    alt="xx"
-    />
-</p>
-
 <p>
     &nbsp;
     <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=xx&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
+        width="7000"
     />
 </p>
-
 <p>
     <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=xx&"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
+    alt="xx"
+    width="2000"
+    />
+</p>
+<p>
+    <img
+        align="right"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
         alt="xx"
+        width="2000"
     />
 </p>
