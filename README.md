@@ -282,19 +282,23 @@
         width="7000"
     />
 </p>
-<p>
+<p
+  display="flex"
+  align="center"
+  justify-content="center"
+  flex-wrap="nowrap"
+  height="100%"
+   >
     <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    width="250"
+    flex-grow="1"
+    max-width="50%"
     />
-</p>
-<p>
     <img
-        align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
         alt="xx"
-        width="320"
+        flex-grow="1"
+        max-width="50%"
     />
 </p>
