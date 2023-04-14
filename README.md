@@ -281,7 +281,7 @@
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
-        width="2000"
+        width="100%"
     />
 </p>
 <p>
