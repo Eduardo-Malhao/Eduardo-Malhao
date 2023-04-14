@@ -275,28 +275,28 @@
         />
     </a>
 </p>
-<p>
+<p 
+    align="center"
+>
     &nbsp;
     <img
-        align="center"
         src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
-        width="100%"
+        width="395em"
     />
-</p>
-<p>
     <img
-        align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
-        alt="xx"
-        width="100%"
-    />
-</p>
-<p>
-    <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    width="50%"
+    width="350em"
     />
 </p>
+<p
+   align="center"
+>
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
+        alt="xx"
+        width="75%"
+    />
+</p>
+
