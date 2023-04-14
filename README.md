@@ -286,16 +286,17 @@
 </p>
 <p>
     <img
+        align="center"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
+        alt="xx"
+        width="100%"
+    />
+</p>
+<p>
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    width="400"
+    width="50%"
     />
 </p>
-<!-- <p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Malhao&theme=dracula"
-        alt="xx"
-    />
-</p> -->
