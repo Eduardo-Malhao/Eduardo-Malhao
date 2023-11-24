@@ -248,13 +248,13 @@
         target="_blank"
         rel="noreferrer"
     > -->
-        <img
+<!--         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript"
             width="40"
             height="40"
         />
-    </a>
+    </a> -->
 </p>
 <p 
     align="center"
