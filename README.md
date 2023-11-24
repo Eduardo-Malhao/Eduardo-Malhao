@@ -31,7 +31,7 @@
 <p
    align="center"
 > 
-    <a
+<!--     <a
     href="https://getbootstrap.com"
     target="_blank" rel="noreferrer"
     >
@@ -62,7 +62,7 @@
         alt="docker"
         width="40"
         height="40"
-        />
+        /> -->
 <!--     </a>
     <a
         href="https://expressjs.com"
