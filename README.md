@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo-Malhao</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p 
-   align="left"
->
-    <img
-        src="https://komarev.com/ghpvc/?username=Eduardo-Malhao&label=Profile%20views&color=0e75b6&style=flat&theme=dracula"
-        alt="visitor counter"
-    />
-</p>
-
 <h3 align="left"> 📲 Connect with me:</h3>
 <p 
     align="left"
@@ -72,7 +63,7 @@
         width="40"
         height="40"
         />
-    </a>
+<!--     </a>
     <a
         href="https://expressjs.com"
         target="_blank"
@@ -256,7 +247,7 @@
         href="https://www.typescriptlang.org/"
         target="_blank"
         rel="noreferrer"
-    >
+    > -->
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript"
