@@ -65,12 +65,12 @@
     <img
         src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
-        width="350em"
+        height="190em"
     />
     <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
-    width="335em"
+    height="190em"
     />
 </p>
 <p
@@ -79,7 +79,7 @@
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
         alt="xx"
-        width="70%"
+        width="85%"
     />
 </p>
 
