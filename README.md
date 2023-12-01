@@ -27,11 +27,11 @@
     </a>
 </p>
 <div
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    aling-content: flex-start;
->
+    display: "flex";
+    flex-wrap: "wrap";
+    justify-content: "space-between";
+    aling-content: "flex-start";
+><p>
     <h3>Languages:</h3>
     <li>HTML</li>
     <li>Javascript</li>
@@ -52,12 +52,11 @@
     <li>Unit Tests / Integration Tests</li>
     <li>Sping Boot / Spring Data / Spring Security</li>
     <li>Git / Github</li>
-</div>
+    </p></div>
 
 <p 
     align="center"
 >
-    &nbsp;
     <img
         src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
         alt="xx"
