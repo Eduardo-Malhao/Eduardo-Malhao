@@ -26,37 +26,30 @@
         />
     </a>
 </p>
-
-<h3 align="left">Languages:</h3>
-<p
-   align="center"
->
-</p>
-<li>HTML</li>
-<li>Javascript</li>
-<li>Typescript</li>
-<li>Java</li>
-<li>Python</li>
-
-<br>
-</p>
-
-<h3 align="left">Technologies:</h3>
-<p
-   align="center"
->
-<li>CSS</li>
-<li>React</li>
-<li>Docker</li>
-<li>API Rest / API Restful</li>
-<li>MySQL</li>
-<li>MongoDB</li>
-<li>Sequelize</li>
-<li>Node.js</li>
-<li>JWT</li>
-<li>Unit Tests / Integration Tests</li>
-<li>Sping Boot / Spring Data / Spring Security</li>
-<li>Git / Github</li>
+<div
+    display: flex;
+    >
+    <h3>Languages:</h3>
+    <li>HTML</li>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>Java</li>
+    <li>Python</li>
+    </p>
+    <h3>Technologies:</h3>
+    <li>CSS</li>
+    <li>React</li>
+    <li>Docker</li>
+    <li>API Rest / API Restful</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>Sequelize</li>
+    <li>Node.js</li>
+    <li>JWT</li>
+    <li>Unit Tests / Integration Tests</li>
+    <li>Sping Boot / Spring Data / Spring Security</li>
+    <li>Git / Github</li>
+</div>
 
 <p 
     align="center"
