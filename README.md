@@ -28,7 +28,10 @@
 </p>
 <div
     display: flex;
-    >
+    flex-wrap: wrap;
+    justify-content: space-between;
+    aling-content: flex-start;
+>
     <h3>Languages:</h3>
     <li>HTML</li>
     <li>Javascript</li>
