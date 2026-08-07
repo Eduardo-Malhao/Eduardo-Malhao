@@ -34,16 +34,18 @@
 ><p>
     <h3>Languages:</h3>
     <li>HTML</li>
-    <li>Javascript</li>
     <li>Typescript</li>
     <li>Java</li>
     <li>Python</li>
     </p>
     <h3>Technologies:</h3>
-    <li>CSS</li>
-    <li>React</li>
+    <li>CSS/SCSS/Boostrap/Tailwind</li>
+    <li>React/Next</li>
     <li>Docker</li>
-    <li>API Rest / API Restful</li>
+    <li>Kubernetes</li>
+    <li>Kafka</li>
+    <li>Puppeteer</li>
+    <li>API RestFull</li>
     <li>MySQL</li>
     <li>MongoDB</li>
     <li>Sequelize</li>
@@ -66,15 +68,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
     height="190em"
-    />
-</p>
-<p
-   align="center"
->
-    <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Malhao&theme=dracula"
-        alt="xx"
-        width="100%"
     />
 </p>
 
