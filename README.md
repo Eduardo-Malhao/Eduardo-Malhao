@@ -31,43 +31,31 @@
     flex-wrap: "wrap";
     justify-content: "space-between";
     aling-content: "flex-start";
-><p>
-    <h3>Languages:</h3>
-    <li>HTML</li>
-    <li>Typescript</li>
-    <li>Java</li>
-    <li>Python</li>
-    </p>
-    <h3>Technologies:</h3>
-    <li>CSS/SCSS/Boostrap/Tailwind</li>
-    <li>React/Next</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>Kafka</li>
-    <li>Puppeteer</li>
-    <li>API RestFull</li>
-    <li>MySQL</li>
-    <li>MongoDB</li>
-    <li>Sequelize</li>
-    <li>Node.js</li>
-    <li>JWT</li>
-    <li>Unit Tests / Integration Tests</li>
-    <li>Sping Boot / Spring Data / Spring Security</li>
-    <li>Git / Github</li>
-    </p></div>
-
-<p 
-    align="center"
 >
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=Eduardo-Malhao&show_icons=true&locale=en&theme=dracula"
-        alt="xx"
-        height="190em"
-    />
-    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Malhao&show_icons=true&locale=en&layout=compact&theme=dracula"
-    alt="xx"
-    height="190em"
-    />
-</p>
+    <p>
+        <h3>Languages:</h3>
+        <li>HTML</li>
+        <li>Typescript</li>
+        <li>Java</li>
+        <li>Python</li>
+    </p>
+    <p>
+        <h3>Technologies:</h3>
+        <li>CSS/SCSS/Boostrap/Tailwind</li>
+        <li>React/Next</li>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+        <li>Kafka</li>
+        <li>Puppeteer</li>
+        <li>API RestFull</li>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Sequelize</li>
+        <li>Node.js</li>
+        <li>JWT</li>
+        <li>Unit Tests / Integration Tests</li>
+        <li>Sping Boot / Spring Data / Spring Security</li>
+        <li>Git / Github</li>
+    </p>
+</div>
 
