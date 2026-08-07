@@ -41,6 +41,8 @@
     </p>
     <p>
         <h3>Technologies:</h3>
+        <li>Agentic AI</li>
+        <li>MCP Server</li>
         <li>CSS/SCSS/Boostrap/Tailwind</li>
         <li>React/Next</li>
         <li>Docker</li>
@@ -50,7 +52,7 @@
         <li>API RestFull</li>
         <li>MySQL</li>
         <li>MongoDB</li>
-        <li>Sequelize</li>
+        <li>Database ORM</li>
         <li>Node.js</li>
         <li>JWT</li>
         <li>Unit Tests / Integration Tests</li>
